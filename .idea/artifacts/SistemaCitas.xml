@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SistemaCitas">
+    <output-path>$PROJECT_DIR$/out/artifacts/SistemaCitas</output-path>
+    <root id="archive" name="SistemaCitas.jar">
+      <element id="module-output" name="evidencia" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar" path-in-jar="/" />
+      <element id="library" level="application" name="googlecode.json.simple" />
+      <element id="directory" name="db" />
+    </root>
+  </artifact>
+</component>
